@@ -1,4 +1,4 @@
-content = """# Exploratory Data Analysis (EDA) on Cryptocurrency Market 📊
+# Exploratory Data Analysis (EDA) on Cryptocurrency Market 📊
 
 ## Project Overview  
 This project performs **Exploratory Data Analysis (EDA)** on cryptocurrency market data to identify trends, correlations, and market patterns. The analysis covers **market capitalization, price distributions, volatility, and supply dynamics** for cryptocurrencies in **Dec 2017 and Jan 2018**.
